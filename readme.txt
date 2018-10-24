@@ -6,3 +6,4 @@ Git tracks changes of files.
 Local Modify.
 Creating a new branch is quick and simple.
 Fast forward test.
+Atom changes.
